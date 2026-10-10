@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 GhostInject
+# 👻 GhostInjector
 
 **A lightweight Windows DLL injector with a modern dark-themed GUI.**
 
