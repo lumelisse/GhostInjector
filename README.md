@@ -42,7 +42,19 @@ The tool automatically detects Chromium-based browsers and switches to **Manual 
 | 📝 **Live Log** | Detailed log of every injection step. |
 
 ---
+## 📸 Screenshots
 
+### Main Window
+
+<p align="center">
+  <img src="https://i.imgur.com/yoeN99k.png" alt="GhostInject Main Window" width="400">
+</p>
+
+### Process Selection
+
+<p align="center">
+  <img src="https://i.imgur.com/ijbTMel.png" alt="Select Process Dialog" width="500">
+</p>
 ## ⚙️ Build Pipeline
 
 ```mermaid
